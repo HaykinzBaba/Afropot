@@ -16,6 +16,6 @@ Customers can browse meals, place online orders, and get doorstep delivery.
 - Order Service – Orders, payments, and tracking
 - Delivery Service – Assign and track riders
 
-## 🚀 Run Locally
+# Run Locally
 ```bash
 docker-compose up --build
