@@ -7,6 +7,7 @@ Customers can browse meals, place online orders, and get doorstep delivery.
 - Frontend: Android (Java)
 - Backend: Spring Boot (Java)
 - Database: PostgreSQL
+- Payment: Stripe
 - Deployment: Docker
 - Version Control: GitHub
 
